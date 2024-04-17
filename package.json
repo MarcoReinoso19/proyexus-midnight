@@ -2,7 +2,7 @@
   "name": "proyexus-midnight",
   "displayName": "Proyexus Midnight",
   "description": "Proyexus Midnight theme for VS Code",
-  "pusblisher": "MarcoReinoso19",
+  "publisher": "MarcoReinoso",
   "repository": {
     "url": "https://github.com/MarcoReinoso19/proyexus-midnight"
   },
@@ -21,10 +21,11 @@
         "path": "./themes/Proyexus Midnight-color-theme.json"
       }
     ],
-    "icon": "images/IconoProyexus.svg",
+    "icon": "images/Icono-Proyexus-128px.png",
     "galleryBanner": {
       "color": "#10D1F4",
       "theme": "dark"
     }
-  }
+  },
+  "license": "UNLICENSED"
 }
