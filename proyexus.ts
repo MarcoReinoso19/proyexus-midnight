@@ -20,8 +20,3 @@ const proyexus_dark: Proyexus = {
     description: "Proyexus Dark Theme for VSCode",
 };
 
-
-
-
-
-
