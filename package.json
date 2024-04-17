@@ -19,12 +19,17 @@
         "label": "Proyexus Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/Proyexus Midnight-color-theme.json"
+      },
+      {
+        "label": "Proyexus Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Proyexus Midnight-color-theme.json"
       }
     ]
   },
   "icon": "images/Icono-Proyexus-128px.png",
   "galleryBanner": {
-    "color": "#10D1F4",
+    "color": "#292d3e",
     "theme": "dark"
   },
   "license": "UNLICENSED"

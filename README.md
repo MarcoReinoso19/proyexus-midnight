@@ -2,7 +2,7 @@
 
 ## Theme Screenshot
 
-![Proyexus Midnight Theme preview](/images/preview-screenshot.png)
+![Proyexus Midnight Theme preview](/images/preview.png)
 
 ## ⚡ Installation ⚡
 
