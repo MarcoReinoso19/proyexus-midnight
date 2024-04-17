@@ -1,0 +1,30 @@
+{
+  "name": "proyexus-midnight",
+  "displayName": "Proyexus Midnight",
+  "description": "Proyexus Midnight theme for VS Code",
+  "pusblisher": "MarcoReinoso19",
+  "repository": {
+    "url": "https://github.com/MarcoReinoso19/proyexus-midnight"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Proyexus Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Proyexus Midnight-color-theme.json"
+      }
+    ],
+    "icon": "images/IconoProyexus.svg",
+    "galleryBanner": {
+      "color": "#10D1F4",
+      "theme": "dark"
+    }
+  }
+}
