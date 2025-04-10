@@ -35,3 +35,25 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 ```Git
 git clone https://github.com/dracula/template.git
 ```
+
+## Deployment
+
+* Install Visual Studio Code Extensions
+```Powershell
+npm install -g @vscode/vsce
+```
+
+* Create package
+```Powershell
+vsce package
+# proyexus-midnight-0.0.0.vsix generated
+```
+
+* Publish extension
+```Powershell
+vsce publish
+# <publisher id>.proyexus-midnight published to VS Code Marketplace
+```
+
+### Deployment requirements
+* Personal Access token, obtained in [Azure DevOps](https://dev.azure.com/Proyexus), this token has an expiration date, so it must to be recreated.
