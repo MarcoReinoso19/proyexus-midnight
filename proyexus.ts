@@ -25,32 +25,3 @@ const proyexus_deep: Proyexus = {
     github: "https://github.com/MarcoReinoso19/proyexus-midnight",
     description: "Proyexus Deep Theme for VSCode",
 };
-
-{
-
-
-
-
-
-
-
-
-
-    //Tab
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
