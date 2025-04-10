@@ -13,6 +13,7 @@
 - Select Preferences: Color Theme and choose between.
   - Proyexus Midnight
   - Proyexus Dark
+  - Proyexus Deep Purple
 
 ## 👩‍💻 Team 👩‍💻
 
