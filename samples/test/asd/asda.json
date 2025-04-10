@@ -1,0 +1,16 @@
+{
+    "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+    "scope": [
+        "constant.numeric",
+        "constant.language",
+        "support.constant",
+        "constant.character",
+        "constant.escape",
+        "variable.parameter",
+        "keyword.other.unit",
+        "keyword.other"
+    ],
+    "settings": {
+        "foreground": "#3aa55f" //EDITED
+    }
+},

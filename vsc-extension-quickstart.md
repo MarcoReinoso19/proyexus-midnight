@@ -12,6 +12,7 @@
 * Open `File > Preferences > Color Themes` and pick your color theme.
 * Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
 
+
 ## Make changes
 
 * Changes to the theme file are automatically applied to the Extension Development Host window.
@@ -26,3 +27,11 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+
+## Recommendations
+
+* Use power toys color picker by Microsoft
+* Use samples files for different programming languages provided by Dracula theme
+```Git
+git clone https://github.com/dracula/template.git
+```

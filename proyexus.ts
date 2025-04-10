@@ -20,3 +20,37 @@ const proyexus_dark: Proyexus = {
     description: "Proyexus Dark Theme for VSCode",
 };
 
+const proyexus_deep: Proyexus = {
+    name: "Proyexus Deep",
+    github: "https://github.com/MarcoReinoso19/proyexus-midnight",
+    description: "Proyexus Deep Theme for VSCode",
+};
+
+{
+
+
+
+
+
+
+
+
+
+    //Tab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

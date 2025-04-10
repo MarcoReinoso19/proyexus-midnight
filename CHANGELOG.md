@@ -1,7 +1,12 @@
 # Change Log
 
-## 0.0.4
+## 1.0.5
 
-### Patch
+### Add
 
-- Initial release
+- Add Dark Theme
+- Add Deep Purple Theme
+
+### Upgrade
+
+- Improve selection Highlight
