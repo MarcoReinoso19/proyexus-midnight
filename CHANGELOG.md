@@ -10,3 +10,4 @@
 ### Upgrade
 
 - Improve selection Highlight
+- Improve color palette in Proyexus Deep
