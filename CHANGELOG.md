@@ -11,3 +11,4 @@
 
 - Improve selection Highlight
 - Improve color palette in Proyexus Deep
+- Fix some colors
