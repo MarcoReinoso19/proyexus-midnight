@@ -25,3 +25,9 @@ const proyexus_deep: Proyexus = {
     github: "https://github.com/MarcoReinoso19/proyexus-midnight",
     description: "Proyexus Deep Theme for VSCode",
 };
+
+const proyexus_forest: Proyexus = {
+    name: "Proyexus Forest",
+    github: "https://github.com/MarcoReinoso19/proyexus-midnight",
+    description: "Proyexus Forest Theme for VSCode",
+};

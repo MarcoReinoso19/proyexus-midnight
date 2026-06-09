@@ -1,14 +1,12 @@
 # Change Log
 
-## 1.0.7
+## 1.1.0
 
 ### Add
 
-- Add Dark Theme
-- Add Deep Purple Theme
+- Add Forest Theme
 
 ### Upgrade
 
-- Improve selection Highlight
-- Improve color palette in Proyexus Deep
-- Fix some colors
+- Improve color palette in Proyexus Midnight
+- Improve color palette in Proyexus Dark

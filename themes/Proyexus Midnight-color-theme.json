@@ -1,5 +1,6 @@
 {
 	"name": "Proyexus Midnight",
+	"type": "dark",
 	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.background": "#242839",
@@ -308,6 +309,17 @@
 				"foreground": "#546E7A"
 			}
 		},
+		{
+            "name": "Docstring",
+            "scope": [
+                "punctuation.definition.string.begin",
+                "punctuation.definition.string.end",
+                "string.quoted.docstring"
+            ],
+            "settings": {
+                "foreground": "#546E7A"
+            }
+        },
 		{
 			"name": "Colors",
 			"scope": [

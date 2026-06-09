@@ -1,6 +1,7 @@
 # Once upon a time...
 
 class Vampire:
+  """Vampire Class"""
   def __init__(self, props):
     self.location = props['location']
     self.birthDate = props['birthDate']
@@ -27,3 +28,7 @@ class Test:
   test: int
   total: float | None
 
+
+HOLA = "Hello, World!"
+
+Dracula.is_weak_to('Sunlight')

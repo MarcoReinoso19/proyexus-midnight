@@ -60,7 +60,7 @@ vsce publish
 
 ### Deployment requirements
 
-* Personal Access token, obtained in [Azure DevOps](https://dev.azure.com/Proyexus), this token has an expiration date, so it must to be recreated.
+* Personal Access token, obtained in [Azure DevOps](https://dev.azure.com/Proyexus) -> User settings -> Personal access tokens, this token has an expiration date, so it must to be recreated.
       * then a re-login is required with:
 
 ```Powershell

@@ -1,5 +1,6 @@
 {
-    "name": "Proyexus Deep Purple",
+    "name": "Proyexus Deep",
+    "type": "dark",
     "semanticHighlighting": true,
     "colors": {
         "activityBar.background": "#291e37",
