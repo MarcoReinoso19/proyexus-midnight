@@ -1,12 +1,9 @@
 # Change Log
 
-## 1.1.0
+## 1.1.1
 
 ### Add
 
-- Add Forest Theme
-
 ### Upgrade
 
-- Improve color palette in Proyexus Midnight
-- Improve color palette in Proyexus Dark
+- Update Proyexus Forest color theme palette and adjust color values
