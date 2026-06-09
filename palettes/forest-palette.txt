@@ -1,7 +1,7 @@
 # FOREST THEME
-forest-1000: #151811,
-forest-900: #171a13,
-forest-800: #1b1f16,
+forest-1000: #2b3322,
+forest-900: #1b1f16,
+forest-800: #1f2419,
 forest-700: #22281d,
 forest-600: #293324,
 forest-500: #303d2b,
@@ -9,7 +9,7 @@ forest-400: #46593f,
 forest-300: #4d5239,
 forest-200: #656741,
 forest-100: #a0a089,
-forest-50: #e3e3dd,
+forest-50: #d6ddc0,
 
 #TEXT COLORS
 #84e407
